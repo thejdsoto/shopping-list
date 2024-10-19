@@ -1,1 +1,1 @@
-# shopping-list
+DOM Manipulation practice. I will be creating a (shopping) list wherein the user can add and delete items. All code is on frontend only since I still don't know how to do it in the backend. Let's go!
